@@ -74,4 +74,4 @@ To secure WordPress installations:
 This project is licensed under the MIT License. 
 
 Let me know if you'd like adjustments or additional details!  
-@TlhErysr
+[@TlhErysr](https://github.com/tlherysr)
