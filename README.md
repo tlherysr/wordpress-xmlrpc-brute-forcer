@@ -56,11 +56,11 @@ This tool is for **authorized penetration testing** and **educational purposes o
 python main.py --username admin --target http://example.com/xmlrpc.php --wordlist ./data/passwords.txt --processes 3 --verbose
 ```
 ### Arguments  
-- --username: The admin username to be targeted.
-- --target: The target WordPress site with the xmlrpc.php endpoint.
-- --wordlist: Path to the wordlist containing possible usernames and passwords.
-- --processes: Number of processes for parallel requests. By default it is 3.
-- --verbose: To enable verbosity and show all the tried passwords in the wordlist.
+- **--username:** The admin username to be targeted.
+- **--target:** The target WordPress site with the xmlrpc.php endpoint.
+- **--wordlist:** Path to the wordlist containing possible usernames and passwords.
+- **--processes:** Number of processes for parallel requests. By default it is 3.
+- **--verbose:** To enable verbosity and show all the tried passwords in the wordlist.
 
 ## Prevention
 
@@ -73,5 +73,5 @@ To secure WordPress installations:
 ## License
 This project is licensed under the MIT License. 
 
-Let me know if you'd like adjustments or additional details!
+Let me know if you'd like adjustments or additional details!  
 @TlhErysr
